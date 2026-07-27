@@ -90,7 +90,7 @@ const slides = [
 			"GitHub integration",
 			"Supports modern frameworks",
 			"Automatic updates",
-			"Thank You!"
+			"Free plan available"
 		]
 	},
 {
