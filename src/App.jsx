@@ -92,7 +92,7 @@ const slides = [
 			"Automatic updates",
 			"Thank You!"
 		]
-	}
+	},
 {
 		title: "End",
 		points: [
